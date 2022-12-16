@@ -122,5 +122,8 @@
     "editor.formatOnSave": true
   },
   "emmet.triggerExpansionOnTab": true,
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
